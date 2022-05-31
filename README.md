@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anderson de Araújo Silva
 - 👀 I’m interested in learn new tecnology and apply in my job.
 - 🌱 I’m currently learning Power Bi
-- 💞️ I’m looking to collaborate on Banks.
+- 💞️ I’m looking to collaborate on Financial Institution ( banks ).
 - 📫 How to reach me https://www.linkedin.com/in/andersonbsb01/
 
 <!---
